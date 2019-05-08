@@ -1,3 +1,3 @@
 const helloWorld = () => {
-  return "Hello World!";
+  return "Goodbye cruel World!";
 }
